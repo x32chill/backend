@@ -1,0 +1,18 @@
+{
+    "name": "x32",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "bad-words": "^3.0.4",
+        "chalk-animation": "^1.6.0",
+        "express": "^4.17.1",
+        "sanitize-html": "^2.3.2",
+        "socket.io": "^3.1.2",
+        "supports-color": "^8.1.1"
+    },
+    "engines": {
+        "node": "14.15.4",
+        "npm": "6.14.10"
+    }
+}
