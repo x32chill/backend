@@ -1,6 +1,6 @@
 # x32
 A social & calming experience.
-
+https://chill.dogwiththebutteronhim.tk/
 ### Usage
 1. If you're a moderator or a admin, log in with your password via the login button
 2. Put on some music.
